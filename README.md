@@ -14,4 +14,5 @@ Attribute Information:
 * CPC总费用: Total value of CPC (cost per click
 
 Dashboard Illustration
-<img src="https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1" width="500" height="900">
+<img src="https://github.com/zilin0618/Daily_Business_Overview_Tableau-/blob/main/Web%20capture_16-1-2022_14524_public.tableau.com.jpeg" width="500" height="1000">
+If you want to look at the detailed dashboard or play with the filter you can click [here](https://public.tableau.com/app/profile/zilin.wang2962/viz/DailyBusinessOverviewReport/Dashboard1#1)
